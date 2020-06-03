@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google Meet Squared
-// @namespace    https://github.com/AidanGamer594/Galaxy-OS
-// @version      1.0.0
+// @namespace    https://github.com/AidanGamer594/Google-Meet-Squared
+// @version      1.0.3
 // @description  Adds a toggle where you can see everyone in Google Meet
 // @author       Aidan Walker
 // @include      https://meet.google.com/*
