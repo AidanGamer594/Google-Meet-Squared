@@ -6,7 +6,8 @@ body {
   margin: 0;
 }
 body {
-  font-family: 'Roboto', 'LocalRoboto', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+  font-family: "Roboto", "LocalRoboto", "Helvetica Neue", "Helvetica",
+    "sans-serif";
   background: #28e1eb;
   padding: 2px 0 3px 0;
   width: min-content;
